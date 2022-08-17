@@ -1,15 +1,14 @@
-<h1 align="center">Hello 👋, I'm Aries</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 align="center">¡Hola! 👋, Soy Aries</h1>
+<h3 align="center">y soy frontend developer de Jalisco, México</h3>
 
-- 🔭 I’m currently working on **ColateralMKT**
 
-- 🌱 I’m currently learning **Cibersecurity**
+- 🌱 Actualmente estoy aprendiendo **Ciberseguiridad de Azure**
 
-- 👨‍💻 All of my projects are available at [ariesramirez.com](ariesramirez.com)
+- 👨‍💻 Puedes ver alguno de mis proyectos en [ariesramirez.com](ariesramirez.com)
 
-- 💬 Ask me about **javascript, wordpress**
+- 💬 Preguntame lo que gustes de **javascript, wordpress, chismes, pelis, etc.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">¿En donde encontrarme?</h3>
 <p align="left">
 <a href="https://instagram.com/ariesenstion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariesenstion" height="30" width="40" /></a>
 </p>
